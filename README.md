@@ -48,4 +48,43 @@ Create a function in Python that accepts one parameter: a string that’s a sent
 By [code academy](https://www.codecademy.com/resources/blog/advanced-python-code-challenges/)
 
 
-https://www.fullstack.cafe/blog/big-o-interview-questions
+## Sorting
+- Heapsort
+- Quicksort
+- Merge sort
+- Bubble Sort
+
+## Linked List
+Finding middle element in a linked list
+
+Challenge 1: Print in reverse
+Create a function that prints the nodes of a linked list in reverse order. 
+
+Challenge 2: Find the middle node
+Create a function that finds the middle node of a linked list.
+
+Challenge 3: Reverse a linked list
+Create a function that reverses a linked list. You do this by manipulating the nodes so that they’re linked in the other direction.
+
+Challenge 4: Merge two lists
+Create a function that takes two sorted linked lists and merges them into a single sorted linked list. Your goal is to return a new linked list that contains the nodes from two lists in sorted order. You may assume the sort order is ascending. 
+
+Challenge 5: Remove all occurrences
+Create a function that removes all occurrences of a specific element from a linked list. The implementation is similar to the remove(at:) method that you implemented for the linked list.
+
+- Delete a Node
+- Get Node Value
+- Cycle Detection
+- Print in Reverse
+- Reverse a linked list
+- Compare two linked lists
+- Reverse a doubly linked list
+- Merge two sorted linked lists
+- Find Merge Point of Two Lists
+- Print the Elements of a Linked List
+- Finding middle element in a linked list
+- Insert a Node at the Tail of a Linked List
+- Insert a node at the head of a linked list
+- Inserting a Node Into a Sorted Doubly Linked List
+- Insert a node at a specific position in a linked list
+- Delete duplicate-value nodes from a sorted linked list
