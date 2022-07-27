@@ -55,7 +55,6 @@ By [code academy](https://www.codecademy.com/resources/blog/advanced-python-code
 - Bubble Sort
 
 ## Linked List
-Finding middle element in a linked list
 
 Challenge 1: Print in reverse
 Create a function that prints the nodes of a linked list in reverse order. 
