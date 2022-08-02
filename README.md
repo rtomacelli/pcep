@@ -4,7 +4,7 @@
 We no longer use Morse code to transfer information, but that doesn't mean you can't use it in a code challenge. Write a function in Python that takes in a string that can have alphanumeric characters in lower or upper case.
 The string can also contain any special characters handled in Morse code, including commas, colons, apostrophes, periods, exclamation marks, and question marks. The function should return the Morse code equivalent for the string.
 
-## Write a Friday 13th detector
+## [Write a Friday 13th detector](https://github.com/rtomacelli/pcep/blob/main/custom/jason_scheduler.py)
 Create a function in Python that accepts two parameters. They’ll both be numbers. The first will be the month as a number, and the second will be the four-digit year. The function should parse the parameters and return True if the month contains a Friday the 13th and False if it doesn’t.
 
 ## Find the domain name using an IP address
