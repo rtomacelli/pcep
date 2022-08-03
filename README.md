@@ -19,7 +19,7 @@ An example input would be "Robert000Smith000123". The function should return the
 
 { "first_name": "Robert", "last_name": "Smith", "id": "123" }
 
-## Convert a decimal to a hex
+## [Convert a decimal to a hex](https://github.com/rtomacelli/pcep/blob/main/custom/decode_string.py)
 For this challenge, you need to write a function in Python that accepts a string of ASCII characters. It should return each character's value as a hexadecimal string. Separate each byte by a space, and return all alpha hexadecimal characters as lowercase.
 
 ## Find the difference between the strings
